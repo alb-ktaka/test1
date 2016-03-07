@@ -1,0 +1,26 @@
+
+git＜Sourcetree＞
+
+・環境設定でuser name, email addressを設定
+
+・リポジトリ作成
+File new
+create new repository
+	testというものを作る
+
+・testの中にファイルfを作る
+
+・状態確認 git status
+
+・ステージファイルに持っていく git add f
+unstated fileをクリックするだけでいい
+
+・コミットする git commit
+ボタンがある
+
+
+・gitのディレクトリをルートにすればいい？ or pathを通す
+
+Gitshellでdiffをとろうとするとできない
+：おそらく文字コードの問題がある（↓など）
+http://stackoverflow.com/questions/5046032/git-says-binary-files-a-and-b-differ-on-for-reg-files
